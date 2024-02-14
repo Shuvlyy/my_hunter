@@ -1,0 +1,7 @@
+*.o
+*.log
+bin
+.idea
+.vscode
+*.d
+myhunter
